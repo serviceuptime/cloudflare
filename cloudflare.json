@@ -1,6 +1,6 @@
 {
     "name": "ServiceUptime",
-    "description": "ServiceUptime Website Monitoring - is remote website uptime monitoring designed to help you detect website downtime which can mean lost revenue and profits. Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
+    "description": "ServiceUptime Website Monitoring - let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
     "category": "monitoring",
     "version": "0.1",
 	"main": "public/javascripts/serviceuptime.js",
