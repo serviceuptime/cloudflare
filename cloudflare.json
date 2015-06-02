@@ -53,7 +53,7 @@
 			{
 				"type": "hidden",
 				"id": "engine_key",
-				"name": "[siteuptime engine key]",
+				"name": "[serviceuptime engine key]",
 				"value": "missing",
 				"domain_request": true
 			}
