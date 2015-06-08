@@ -5,7 +5,7 @@
     "version": "0.1",
 	"main": "public/javascripts/serviceuptime.js",
     "account": {
-        "callback_url": "https://www.serviceuptime.com/cf/",
+        "callback_url": "https://www.serviceuptime.com/cf/api/",
         "user_fields": [
             "email"
         ]
@@ -46,7 +46,7 @@
             "Language": "English",
             "Price": "Free, but can be upgraded to paid options.",
             "Restrictions": "Free accounts can only monitor one website.",
-            "ServiceUptime": "<a href='http://www.serviceuptime.com/terms.php' target='_blank'>Terms of Service</a>",
+            "ServiceUptime": "<a href='https://www.serviceuptime.com/terms.php' target='_blank'>Terms of Service</a>",
 			"has_js": true
         },
 		"interface": [
