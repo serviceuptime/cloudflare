@@ -1,8 +1,8 @@
 {
-    "name": "ServiceUptime",
-    "description": "ServiceUptime Website Monitoring - let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
+    "name": "ServiceUptime Website Monitoring",
+    "description": "ServiceUptime Website Monitoring - Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
     "category": "monitoring",
-    "version": "0.1",
+    "version": "0.2",
 	"main": "public/javascripts/serviceuptime.js",
     "account": {
         "callback_url": "https://www.serviceuptime.com/cf/api/",
@@ -27,15 +27,11 @@
             }
         ]
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/serviceuptime/cloudflare.git"
-    },
     "config": {
         "assets": {
             "logos": {
-                "200px": "./public/images/logo200px.png",
-                "132px": "./public/images/logo132px.png"
+                "200px": "./public/images/cf_logo_200.png",
+                "132px": "./public/images/cf_logo_132.png"
             },
             "detail_page": [
                 "./public/images/logo.png"
@@ -46,17 +42,11 @@
             "Language": "English",
             "Price": "Free, but can be upgraded to paid options.",
             "Restrictions": "Free accounts can only monitor one website.",
-            "ServiceUptime": "<a href='https://www.serviceuptime.com/terms.php' target='_blank'>Terms of Service</a>",
-			"has_js": true
+            "TOS": "<a href='https://www.serviceuptime.com/terms.php' target='_blank'>Terms of Service</a>",
+			"has_js": false
         },
 		"interface": [
-			{
-				"type": "hidden",
-				"id": "engine_key",
-				"name": "[serviceuptime engine key]",
-				"value": "missing",
-				"domain_request": true
-			}
+
 		]
     }
 }
