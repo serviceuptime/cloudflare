@@ -2,7 +2,7 @@
     "name": "ServiceUptime Website Monitoring",
     "description": "ServiceUptime Website Monitoring - Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
     "category": "monitoring",
-    "version": "0.2",
+    "version": "0.2.1",
 	"main": "public/javascripts/serviceuptime.js",
     "account": {
         "callback_url": "https://www.serviceuptime.com/cf/api/",
@@ -40,7 +40,7 @@
         "details": {
             "Category": "monitoring",
             "Language": "English",
-            "Price": "Free, but can be upgraded to paid options.",
+            "Price": "Free",
             "Restrictions": "Free accounts can only monitor one website.",
             "TOS": "<a href='https://www.serviceuptime.com/terms.php' target='_blank'>Terms of Service</a>",
 			"has_js": false
