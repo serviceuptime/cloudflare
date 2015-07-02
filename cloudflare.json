@@ -2,7 +2,7 @@
     "name": "ServiceUptime Website Monitoring",
     "description": "ServiceUptime Website Monitoring - Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
     "category": "monitoring",
-    "version": "0.2.1",
+    "version": "0.2.2",
 	"main": "public/javascripts/serviceuptime.js",
     "account": {
         "callback_url": "https://www.serviceuptime.com/cf/api/",
