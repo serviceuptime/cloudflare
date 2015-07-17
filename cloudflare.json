@@ -2,29 +2,12 @@
     "name": "ServiceUptime Website Monitoring",
     "description": "ServiceUptime Website Monitoring - Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
     "category": "monitoring",
-    "version": "0.2.2",
+    "version": "0.3",
 	"main": "public/javascripts/serviceuptime.js",
     "account": {
         "callback_url": "https://www.serviceuptime.com/cf/api/",
         "user_fields": [
             "email"
-        ]
-    },
-    "billing": {
-        "type": "zone",
-        "plans": [
-            {
-                "name": "Standard",
-                "price": "4.95"
-            },
-            {
-                "name": "Advanced",
-                "price": "9.95"
-            }
-            ,{
-                "name": "Professional",
-                "price": "20.00"
-            }
         ]
     },
     "config": {
@@ -48,5 +31,22 @@
 		"interface": [
 
 		]
+    },
+    "billing": {
+        "type": "zone",
+        "plans": [
+            {
+                "name": "Standard",
+                "price": "4.95"
+            },
+            {
+                "name": "Advanced",
+                "price": "9.95"
+            }
+            ,{
+                "name": "Professional",
+                "price": "20.00"
+            }
+        ]
     }
 }
