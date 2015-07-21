@@ -1,6 +1,6 @@
 {
     "name": "Free ServiceUptime Website Monitoring",
-    "description": "Let ServiceUptime monitor your website 24/7 and alert you immediately upon your website availability problems. This free account supports only **one** monitor but you may upgrade it for more options.",
+    "description": "Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon any problems. This free account supports only **one** monitor but you may upgrade it for more options.",
     "category": "monitoring",
     "version": "0.4",
 	"main": "public/javascripts/serviceuptime.js",
