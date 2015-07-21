@@ -5,6 +5,48 @@ Free Website Monitoring Service
 
 When you rely on your Web Site, downtime is unacceptable. But on the Web it happens. The key is to know as soon as possible when there is a problem so you can take action before customers are affected and business is lost. Signup for an account today and let Service Uptime monitor your website for free.
 
+**Free** plan include:
+
+ - Up to 10 Worldwide Monitoring locations
+ - 30 min. Monitoring Frequency (Check Interval) 
+ - Multiple Email and SMS Alert Contacts 
+ - Uptime&Performance Reports Daily, Weekly, Monthly, Yearly
+ - Summary statistics for the whole period of monitoring
+ - Custom Alert subject for up/down email notifications
+ - Ability to set Custom Time Zone and Daylight Saving
+ - Ability to send test Email/SMS alert
+ - Advanced **Android Application** for your smartphone or tablet
+ - Instant Availability check to verify your website accesibility
+ - Public Statistics for One/Multiple Monitoring Services
+ - Ability to incorporate Public Statistics into your website layout
+ - Outage Double Check Technology to prevent false alerts
+ - Button with real uptime to be placed on the website
+ - Detailed Monthly Report in your email
+ - SMS Alert Messages
+ 
+Additional Monitors and Premium Features
+----------------------------------------
+
+Please consider to upgrade your free account if you would like to setup additional monitors or use premium features.
+
+All **Premium** plans include:
+
+ - Monitoring Frequency (Check Interval) from 1 minute to 1 hour
+ - Send email/SMS Alert after N number of failed checks
+ - Full range of services and ports (from webpage content to custom port)
+ - Maintenance Schedulers to automatically suspend monitoring
+ - Custom Timeout for every monitoring service
+ - Webpage content & Partner Link monitoring
+ - Ability to Reset statistics
+ - Customized Public Statistics Report
+ - Ability to Disable monitoring for every single service
+ - Lifetime Account (statistics never deleted)
+ - Cheaper SMS Alert Messages (20% off)
+ - Jabber IM Alerts
+ - Webhook Alerts
+ - ServiceUptime API
+ - Much more!
+
 How Service Uptime Monitoring works
 -----------------------------------
 
@@ -27,7 +69,7 @@ The monitoring frequency is how often your website is checked by our robot. You 
 Contacts supported
 ------------------
 
-Upon service outage you can be notified by email and sms. Email notification is an alert with details of the service being down and the error it returns. SMS alert is a short notification sent to your cell phone with the status of monitoring service. You can also utilize Webhook alerts or use ServiceUptime API to create your own application and alerting.
+Upon service outage you can be notified by email and sms. Email notification is an alert with details of the service being down and the error it returns. SMS alert is a short notification sent to your cell phone with the status of monitoring service. You can also utilize Webhook and Jabber IM alerts or use ServiceUptime API to create your own application and alerting.
 
 Services and Ports monitored
 ----------------------------

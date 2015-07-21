@@ -1,15 +1,9 @@
 {
-    "name": "ServiceUptime Website Monitoring",
-    "description": "ServiceUptime Website Monitoring - Let ServiceUptime monitor your website 24/7/365 and alert you immediately upon your website accessibility, availability or performance problems.",
+    "name": "Free ServiceUptime Website Monitoring",
+    "description": "Let ServiceUptime monitor your website 24/7 and alert you immediately upon your website availability problems. This free account supports only **one** monitor but you may upgrade it for more options.",
     "category": "monitoring",
-    "version": "0.3",
+    "version": "0.4",
 	"main": "public/javascripts/serviceuptime.js",
-    "account": {
-        "callback_url": "https://www.serviceuptime.com/cf/api/",
-        "user_fields": [
-            "email"
-        ]
-    },
     "config": {
         "assets": {
             "logos": {
@@ -25,28 +19,17 @@
             "Language": "English",
             "Price": "Free",
             "Restrictions": "Free accounts can only monitor one website.",
-            "TOS": "<a href='https://www.serviceuptime.com/terms.php' target='_blank'>Terms of Service</a>",
+            "TOS": "https://www.serviceuptime.com/terms.php",
 			"has_js": false
         },
 		"interface": [
 
 		]
     },
-    "billing": {
-        "type": "zone",
-        "plans": [
-            {
-                "name": "Standard",
-                "price": "4.95"
-            },
-            {
-                "name": "Advanced",
-                "price": "9.95"
-            }
-            ,{
-                "name": "Professional",
-                "price": "20.00"
-            }
+    "account": {
+        "callback_url": "https://www.serviceuptime.com/cf/api/",
+        "user_fields": [
+            "email"
         ]
     }
 }
